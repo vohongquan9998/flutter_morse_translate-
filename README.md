@@ -1,6 +1,6 @@
 # flutter_morse_translate
 
-A new Flutter project.
+- .... .. ... / .. ... / -- --- .-. ... . / - .-. .- -. ... .-.. .- - . / .- .--. .--.
 
 ## Getting Started
 
